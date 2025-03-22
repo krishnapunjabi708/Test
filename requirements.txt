@@ -9,3 +9,4 @@ numpy
 joblib
 reportlab
 google-auth
+scikit-learn
